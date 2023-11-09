@@ -13,22 +13,6 @@
             }
         ],
         "correctMultipleChoiceOption": "Hypertext Markup Language",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What does CSS stand for?",
@@ -44,22 +28,6 @@
             }
         ],
         "correctMultipleChoiceOption": "Cascading Style Sheets",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What does JS stand for?",
@@ -78,52 +46,12 @@
             }
         ],
         "correctMultipleChoiceOption": "JavaScript",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What is the 3-letter abbreviation of Extensible Markup Language?",
         "isMultipleChoice": false,
         "isMultipleImageChoice": false,
         "isShortResponse": true,
-        "multipleChoiceOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleChoiceOption": "",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
         "correctShortResponseAnswer": "XML"
     },
     {
@@ -131,30 +59,6 @@
         "isMultipleChoice": false,
         "isMultipleImageChoice": false,
         "isShortResponse": true,
-        "multipleChoiceOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleChoiceOption": "",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
         "correctShortResponseAnswer": "<link>"
     },
     {
@@ -162,15 +66,6 @@
         "isMultipleChoice": false,
         "isMultipleImageChoice": true,
         "isShortResponse": false,
-        "multipleChoiceOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleChoiceOption": "",
         "multipleImageChoiceURLOptions": [
             {
                 "option": "https://logowik.com/content/uploads/images/123_css3.jpg"
@@ -183,22 +78,12 @@
             }
         ],
         "correctMultipleImageChoiceURLOption": "https://logowik.com/content/uploads/images/123_css3.jpg",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "Which one is the HTML logo?",
         "isMultipleChoice": false,
         "isMultipleImageChoice": true,
         "isShortResponse": false,
-        "multipleChoiceOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleChoiceOption": "",
         "multipleImageChoiceURLOptions": [
             {
                 "option": "https://logowik.com/content/uploads/images/123_css3.jpg"
@@ -211,22 +96,12 @@
             }
         ],
         "correctMultipleImageChoiceURLOption": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_neObRKceqsRc3POqgFFfVDrX9jDzDyDXWYYvg71XVT_dNidaPafD_bqKOJYmogSvh0&usqp=CAU",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "Which one is the JS logo?",
         "isMultipleChoice": false,
         "isMultipleImageChoice": true,
         "isShortResponse": false,
-        "multipleChoiceOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleChoiceOption": "",
         "multipleImageChoiceURLOptions": [
             {
                 "option": "https://logowik.com/content/uploads/images/123_css3.jpg"
@@ -239,7 +114,6 @@
             }
         ],
         "correctMultipleImageChoiceURLOption": "https://logowik.com/content/uploads/images/javascript.jpg",
-        "correctShortResponseAnswer": ""
     }
 ][
     {
@@ -256,22 +130,6 @@
             }
         ],
         "correctMultipleChoiceOption": "Hypertext Markup Language",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What does CSS stand for?",
@@ -287,22 +145,6 @@
             }
         ],
         "correctMultipleChoiceOption": "Cascading Style Sheets",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What does JS stand for?",
@@ -321,22 +163,6 @@
             }
         ],
         "correctMultipleChoiceOption": "JavaScript",
-        "multipleImageChoiceURLOptions": [
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            },
-            {
-                "option": ""
-            }
-        ],
-        "correctMultipleImageChoiceURLOption": "",
-        "correctShortResponseAnswer": ""
     },
     {
         "questionTitle": "What is the 3-letter abbreviation of Extensible Markup Language?",
